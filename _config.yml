@@ -1,0 +1,12 @@
+title: Optimize your 1st Kubernetes Workload
+description: Kubernetes Hands On Cheat Sheet
+theme: just-the-docs
+url: https://scaleway.github.io/scw-handson-k8s-optimize-1st-workload
+search_enabled: false
+#logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
+aux_links:
+  "Scaleway on GitHub":
+    - "https://github.com/scaleway"
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
