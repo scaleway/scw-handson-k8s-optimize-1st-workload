@@ -70,7 +70,7 @@ chmod 600 ~/Downloads/private_key
 ```
 kubectl version
 ```
-![kubectl version](assets/images/introduction/kubectl_version.png)
+![kubectl version](assets/images/introduction/kube_version.png)
 
 ```
 kubectl get nodes
