@@ -71,3 +71,11 @@ kubectl apply -f exercice-files/lab6-3.yaml
 (It may take a few minutes before Let's Encrypt issue the TLS certificate, due to rate limit)
 
 ![](assets/images/ingress/ok.png)
+
+# Cleanup
+
+```
+kubectl delete -f exercice-files/lab6-3.yaml -f exercice-files/lab6-2.yaml
+```
+
+![](assets/images/ingress/cleanup.png)
