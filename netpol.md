@@ -38,3 +38,11 @@ kubectl run -i --rm --restart=Never --image=busybox:latest -n ns1 shell -- wget 
 ```
 
 ![](assets/images/netpol/ko.png)
+
+## Clean up
+
+```
+kubectl delete -f exercice-files/lab2-1.yaml
+```
+
+![](assets/images/netpol/cleanup.png)

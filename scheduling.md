@@ -47,4 +47,12 @@ kubectl get pods -ocustom-columns=NAME:.metadata.name,NODE:.spec.nodeName
 ![](assets/images/scheduling/affinity.png)
 
 
+## Clean up
+
+```
+kubectl delete -f exercice-files/lab4-2.yaml
+```
+
+![](assets/images/scheduling/cleanup.png)
+
 To go further check [the official documentation](https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/)
