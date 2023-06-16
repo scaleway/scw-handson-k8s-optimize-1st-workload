@@ -55,8 +55,6 @@ Login using a new grafana user
 
 ![](assets/images/metrics/graf3.png)
 
-![](assets/images/metrics/graf4.png)
-
 Search for metrics
 
 ![](assets/images/metrics/metrics.png)
